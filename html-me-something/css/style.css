@@ -1,0 +1,33 @@
+html{
+  background-color: black;
+  text-align: center;
+  color: rgba(216, 15, 15, 0.774);
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 80px;
+  margin-left: 80px;
+}
+
+h1{
+    color:white;
+}
+
+header{
+    font-size: x-large;
+}
+
+div {
+    padding: 10px;
+    border: 1px solid #af0202;
+    background-color: silver;
+  }
+
+  #introduction{
+      font-style: oblique;
+  }
+
+  .mahomey{
+      color: red;
+      background-color: gold;
+  }
+
